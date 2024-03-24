@@ -58,7 +58,7 @@
           preserveAspectRatio="xMidYMid meet" style="height:200" class="profile-img">
 
           <g transform="translate(0.000000,1400.000000) scale(0.100000,-0.100000)"
-          fill="#000000" stroke="none">
+          fill="currentColor" stroke="none">
           <path d="M10352 13860 c-12 -5 -61 -35 -110 -67 -319 -209 -711 -803 -948
           -1437 -126 -336 -201 -670 -255 -1131 -18 -148 -23 -250 -24 -460 l-1 -270
           -131 -195 c-72 -107 -200 -292 -284 -410 -351 -495 -472 -718 -557 -1032 -51
