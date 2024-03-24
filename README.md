@@ -1,16 +1,17 @@
-### Hi there 👋
+<div style="width: 100%;">
+    <img src="header.svg" style="width: 100%;">
+</div>
 
-<!--
-**laolaofireduck/laolaofireduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Damascus, Syria
 
-Here are some ideas to get you started:
+🎓 Bachelor's degree in Information Technology Engineering with a focus on AI | Currently pursuing a Master's in Web Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Proficient in C#, Vue.js, and Nuxt.js for web development
+
+💼 Currently working as a Senior .NET Developer and Software Engineer, bringing 5 years of experience to innovative projects.
+
+🏗️ Passionate about software architecture and designing scalable solutions.
+
+🎨 Outside of coding, I express my creativity through drawing and artistry.
+
+🌟 Open-source contributor
