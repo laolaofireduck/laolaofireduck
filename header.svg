@@ -48,7 +48,7 @@
         .container {
           --color-main: #111827;
           --cat-body: #010000;
-          --cat-eyes: #ffcb51
+          --cat-eyes: #ffcb51;
         }
       }
       </style>
