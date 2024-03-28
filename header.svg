@@ -12,13 +12,13 @@
             box-sizing: border-box;
           }
         .container {
+          --cat-eyes: #07e4ff;
           --color-main: #f9fafb;
           --cat-body: #f2f2f2;
-          --cat-eyes: #07e4ff;
 
           font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-        font-size: 16px;
-        word-wrap: break-word;
+          font-size: 16px;
+          word-wrap: break-word;
           color: var(--color-main);
           display: flex;
           flex-direction: column;
@@ -83,14 +83,15 @@
             <ellipse style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0784664;stroke-opacity:1" id="ellipse416"
               cx="131.43745" cy="144.63261" rx="3.0323679" ry="2.9398527" />
           </g>
-          <g id="layer4" transform="translate(-27.520646,-101.78949)">
-            <path style="fill:#eb7154;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-              d="m 140.72763,161.03964 c 0.29161,-0.57609 3.28071,-0.33838 3.4955,0.35851 0.12371,0.40141 -0.64994,2.16169 -1.98303,2.12867 -1.02422,-0.0254 -1.81136,-1.89673 -1.51247,-2.48718 z"
-              id="path416" />
-            <path style="fill:#eb7154;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-              d="m 175.17341,137.5276 c -1.83302,-2.0309 14.57147,-10.35427 15.36887,-8.08054 2.13018,6.07407 -8.38923,21.75906 -8.49249,20.97772 -0.42197,-3.19289 -3.57024,-9.23411 -6.87638,-12.89718 z"
-              id="path417" />
-          </g>
+           <g
+   id="layer4"
+   transform="translate(-27.520646,-101.78949)"><path
+     style="fill:#eb7154;fill-opacity:1;stroke:none;stroke-width:0.34086;stroke-opacity:1"
+     d="m 140.74611,161.13297 c 0.37568,-0.74217 4.22652,-0.43593 4.50323,0.46187 0.15937,0.51713 -0.83731,2.78489 -2.55472,2.74235 -1.3195,-0.0327 -2.33357,-2.44354 -1.94851,-3.20422 z"
+     id="path416" /><path
+     style="fill:#eb7154;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+     d="m 175.17341,137.5276 c -1.83302,-2.0309 14.57147,-10.35427 15.36887,-8.08054 2.13018,6.07407 -8.38923,21.75906 -8.49249,20.97772 -0.42197,-3.19289 -3.57024,-9.23411 -6.87638,-12.89718 z"
+     id="path417" /></g>
         </svg>
 
       </div>
